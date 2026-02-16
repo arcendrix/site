@@ -3,28 +3,27 @@ title: Services
 permalink: /services/
 ---
 
-Arcendrix builds operational control systems—lightweight software that removes friction from execution.
+We build small internal tools that solve one operational problem really well.
 
-## Engagements
+## Common builds
+- Field log → invoice generator
+- Job tracker (status, notes, photos)
+- Equipment hours + maintenance tracker
+- Simple dispatch board
+- Quote builder / estimator
+- Inventory & reorder tracker
 
-### Operational Control Audit
-Map workflows, identify margin leakage, define the control layer.
-- Current-state map
-- Friction + risk report
-- Target architecture
-- Implementation plan
+## What you get
+- A branded web tool
+- A simple backend (usually Google Sheets)
+- A GitHub repo you own
+- Clean print-ready outputs (PDF / invoice pages)
 
-### Control Layer Build
-Deploy the system: structured intake → status → outputs.
-- Job tracking + exception handling
-- Change-order capture
-- Cost signals and visibility
-- Document generation (invoices, reports, summaries)
+## Pricing (keep it simple)
+Most tools fit into:
+- **One-off build**
+- **Build + monthly improvements**
 
-### Ongoing Support
-Keep it tight.
-- Monitoring + refinements
-- Priority fixes
-- Continuous improvement
+If you want “cheap,” you’ll get trash. If you want “fast and solid,” we can do that.
 
-{% include cta.html %}
+<a class="btn primary" href="{{ '/contact/' | relative_url }}">Request a build</a>
